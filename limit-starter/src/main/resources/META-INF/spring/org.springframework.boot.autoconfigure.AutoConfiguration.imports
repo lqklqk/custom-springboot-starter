@@ -1,0 +1,2 @@
+ # 最好使用接口，本次没有定义接口，直接配置切面类
+ com.lqk.limit.aspect.RedisLimitAspect
